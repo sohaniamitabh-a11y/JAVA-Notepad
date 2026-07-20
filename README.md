@@ -94,7 +94,7 @@ java main.Main
 
 ## Student Info
 
-- **Name:** Amitabh Sohani
+- **Name:** Amitabh Sohani / mrittika chakroborty 
 - **Institute:** Vidyalankar Institute of Technology, Wadala
 - **University:** Mumbai University
 - **Semester:** II — Java Programming
